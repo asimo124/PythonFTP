@@ -6,10 +6,6 @@ import ftplib
 
 class MFTP:
 
-
-
-
-
 	def __init__(self):
 		self.local_path = 'C:\\Users\\alex\\'
 		self.is_connected = False
